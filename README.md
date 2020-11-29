@@ -1,7 +1,7 @@
 # HumanLog
 
 
-### HumanLog app is a Simple Sign in/ Sign Up app, Using Podfile and google firebase.
+### HumanLog app is a Simple Sign in/ Sign Up app, Using Podfile and google firebase for store user informations.
 
 
 ### App Icon 
